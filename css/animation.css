@@ -2,6 +2,10 @@
   transform: rotate(69deg);
 }
 
+#rotate:focus{
+  background-color: yellow;
+}
+
 #skew{
   transform: skew(15deg, 15deg);
 }
